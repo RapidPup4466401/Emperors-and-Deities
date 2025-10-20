@@ -68,27 +68,23 @@
 21.Synthetization (Synthetization of various materials occur throughout history, will be destroyed as a tech and could be replaced by Aluminum, Oil, and Uranium Synthesis at various points in the tech trees.)
 Synthetic Fluids and Materials will be subsequently terminated.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-22.Nuclear Fusion - Describes the process of using nuclear fusion instead of fission to produce energy by combining atoms. 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-23.Androids - Robots made in the likeness of humans with near-human thought processing.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-24.Mechs - Essentially exoskeletons but bigger and sturdier typically featuring leg appendages over wheels.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-25.Advanced Simulations (Replaced by Quantum Simulations)
-<Quantum Simulations - Similar to the upgrade from classical computers to quantum computers, this is simulations upgraded to quantum simulations.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-26.Artificial Intelligence - A true AI that is able to make decisions and critical judgement like a human based on information. Can act independently.
+28.Virtual Reality - A reality or space that exists in a virtual space that is not real. Applications include virtual training environments, gaming, movie, experiences, and culture. Also simulation enhancements.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 27.Advanced Drones (Split into Drone Swarms and Drone Networks)
 <Drone Swarms - the technology that enables for the construction of swarms of drones to work together.
 
 <Drone Networks - The technology that enables for drones to work with each other interchangeably across distances and other computer systems.
+
+
+
+
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-28.Virtual Reality - A reality or space that exists in a virtual space that is not real. Applications include virtual training environments, gaming, movie, experiences, and culture. Also simulation enhancements.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+[THIS CONTENT DOES NOT EXIST IN THE REAL WORLD AS COMMERCIALLY VIABLE; BUT DOES EXIST JUST NOT EFFECIENTLY YET OR WELL UNDERSTOOD.
+
+
+25.Advanced Simulations (Replaced by Quantum Simulations)
+<Quantum Simulations - Similar to the upgrade from classical computers to quantum computers, this is simulations upgraded to quantum simulations.——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Designer Genes - Genes that have no direct impact on improving a humans health from a genetic disease but rather for personal and subjective purposes such as looks, fitness, digestion, etc.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Space Colonization - Could be split into separate techs, but generally encompasses techs that enable space colonization in space, on moons, or on planets.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Nanites - Similar to nanotech, it allows for SMART machines on a microscopic scale to operate intelligently.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -96,7 +92,21 @@ Quark Physics - Technology that enables early research into quarks.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Advanced Alloys (Split into High-Entropy Alloys and Shape-Memory Alloys)
 <High-Entropy Alloys - Has superior performance in high heat and extreme conditions compared to composites such as graphene and carbon fibers.
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+22.Nuclear Fusion - Describes the process of using nuclear fusion instead of fission to produce energy by combining atoms.
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+20.Advanced Stealth (Replaced by Metamaterials)
+<Meta Materials - refers to the ability of a material engineered to bend and warp electromagnetic energy around the object in this material.
 
+
+
+
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+[THIS CONTENT IS CLOSE TO END GAME CONTENT, BUT MAYBE CAN FIT IN. A LOT OF IT THOUGH IS REALLY OUT THERE AND SUPER ADVANCED, BUT CAN STILL TECHNICALLY BE INTEGRATED ON AN INDIVIDUAL CIVILIZATION STATUS]
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+Space Colonization - Could be split into separate techs, but generally encompasses techs that enable space colonization in space, on moons, or on planets.
 <Shape-Memory Alloys - Refers to allows able to form into prior shape before deformation.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Dark Matter - refers to the use of dark matter in applications such as warping technology, new materials, and ability to use dark energy, its counterpart.
@@ -114,30 +124,41 @@ Starships - The technology to allow humans to travel between planets and stars e
 Dark Energy - the counterpart of dark matter and hypothesized to be used for even bigger bombs and weapons.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Advanced Kinetics (Can be replaced by railguns)
-<Enables the construction of railgun applications.——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Degenerate Matter - a type of matter where quantum physics replace classical physics and is hypothesized to be used in better materials.
+<Enables the construction of railgun applications.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Nanitic Enhancements - A technology that enables one to use nanites specifically for enhancements or swarm-like features.
+Degenerate Matter - a type of matter where quantum physics replace classical physics and is hypothesized to be used in better materials. 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Adaptive Materials - Materials that change based on stimuli in the environment. For example, in response to erosion, a wall could repair itself for a set period of time.
+23.Androids - Robots made in the likeness of humans with near-human thought processing.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Metagenesis - Complete control of the genomes.
+24.Mechs - Essentially exoskeletons but bigger and sturdier typically featuring leg appendages over wheels.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Terraforming - The ability to terraform entire planets to fit the needs of a civilization.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Hadron Physics (Replaced by Exotic Matter)
-<Exotic Matter - Materials made from this matter so far in the future that it is currently beyond our understanding. Is theorized to deal with negative mass, dark matter, and tachyons. Look, this is as far as we get with current science.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-Cloning - The ability to perfectly clone a person, mind and all.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+26.Artificial Intelligence - A true AI that is able to make decisions and critical judgement like a human based on information. Can act independently.
+
+
+
+
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+[END GAME CONTENT; SO LIKE, THIS WINS YOU THE GAME BASICALLY]
+
+
 Space Elevator - The ability to make an elevator on a planet to ship items from and to planet at ease. Without the use of rockets.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 Warp Drive - The technology to warp space to achieve FTL (Faster than light) travel.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 Dyson Swarm - The technology to use swarms of satellites to harvest all solar energy from the sun for a civilization.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 Matter Decompressor - The technology to harvest rotational and gravitational energy from Blackholes.
 
+Cloning - The ability to perfectly clone a person, mind and all.
+
+Terraforming - The ability to terraform entire planets to fit the needs of a civilization.
+
+Adaptive Materials - Materials that change based on stimuli in the environment. For example, in response to erosion, a wall could repair itself for a set period of time.
+
+Hadron Physics (Replaced by Exotic Matter)
+<Exotic Matter - Materials made from this matter so far in the future that it is currently beyond our understanding. Is theorized to deal with negative mass, dark matter, and tachyons. Look, this is as far as we get with current science.
+
+Metagenesis - Complete control of the genomes.
 
 
 
